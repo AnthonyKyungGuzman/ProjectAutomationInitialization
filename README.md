@@ -1,5 +1,7 @@
 ### About the repo
+```bash
 This repo is a copy from ProjectInitializationAutomation from Kallen Hallden but modified to work correctly with Linux 18.04
+```
 ### Install: 
 ```bash
 git clone "https://github.com/AnthonyKyungGuzman/ProjectAutomationInitialization.git"
@@ -23,4 +25,6 @@ FILEPATH="/path/to/your/project/"
 ```
 
 ### Other
+```bash
 Thanks to Kallen Hallden for doing such a good work with this, I really like it.
+```
