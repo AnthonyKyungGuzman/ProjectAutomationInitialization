@@ -3,7 +3,7 @@
 function create() {
     cd
     source .env
-    python ~/projects/personal_info/projects/ProjectInitializationAutomation/create.py $1
+    python ~/projects/personal_info/projects/ProjectAutomationInitialization/create.py $1
     cd $FILEPATH$1
     git init
     git remote add origin git@github.com:$USERNAME/$1.git
